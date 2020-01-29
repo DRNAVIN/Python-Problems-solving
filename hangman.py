@@ -1,5 +1,5 @@
 import random
-mylist = ["magesh","aravind","gokul","preeth","guna"]
+mylist = [" "," "," "," "," "] #enter the strings
 print(mylist)
 r = random.choice(mylist)
 def choice():
